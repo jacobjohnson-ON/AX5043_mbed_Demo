@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="0.936619452">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="0.936619452" moduleId="org.eclipse.cdt.core.settings" name="Default">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.VCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration buildProperties="" description="" id="0.936619452" name="Default" parent="org.eclipse.cdt.build.core.prefbase.cfg">
+					<folderInfo id="0.936619452." name="/" resourcePath="">
+						<toolChain id="org.eclipse.cdt.build.core.prefbase.toolchain.957782855" name="No ToolChain" resourceTypeBasedDiscovery="false" superClass="org.eclipse.cdt.build.core.prefbase.toolchain">
+							<targetPlatform id="org.eclipse.cdt.build.core.prefbase.toolchain.957782855.1870418474" name=""/>
+							<builder arguments="" cleanBuildTarget="" command="" id="org.eclipse.cdt.build.core.settings.default.builder.1415080330" incrementalBuildTarget="virtualenv_build.bat" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="org.eclipse.cdt.build.core.settings.default.builder"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.libs.445325914" name="holder for library settings" superClass="org.eclipse.cdt.build.core.settings.holder.libs"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.302788810" name="Assembly" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.1008027188" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/img}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis/TARGET_CORTEX_M}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis/TARGET_CORTEX_M/TOOLCHAIN_GCC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis/TOOLCHAIN_GCC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/drivers}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/events}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/events/equeue}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem/bd}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem/fat}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem/fat/ChaN}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/greentea-client}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/greentea-client/greentea-client}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/greentea-client/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/unity}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/unity/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/unity/unity}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/utest}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/utest/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/utest/utest}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/importer}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/inc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/inc/mbedtls}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/platform}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/platform/inc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/platform/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/targets}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/nanostack}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket/cellular}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket/cellular/generic_modem_driver}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket/cellular/utils}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/hal}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/hal/storage_abstraction}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/platform}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx4}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx5}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx5/TARGET_RTOS_M4_M7}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx5/TARGET_RTOS_M4_M7/TOOLCHAIN_GCC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/api}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device/TOOLCHAIN_GCC_ARM}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/drivers}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/TARGET_FRDM}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/api}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv4}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv6}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/priv}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/prot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp/polarssl}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif/ppp}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif/ppp/polarssl}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch/TARGET_Freescale}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch/TARGET_Freescale/TARGET_K64F}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys/arch}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/configuration-store}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/pics}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/umlet}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/project}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/flash-journal}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/flash-journal/flash-journal-strategy-sequential}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/storage-volume-manager}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/}&quot;"/>
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1670933615" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="__CORTEX_M4"/>
+									<listOptionValue builtIn="false" value="CPU_MK64FN1M0VMD12"/>
+									<listOptionValue builtIn="false" value="ARM_MATH_CM4"/>
+									<listOptionValue builtIn="false" value="__FPU_PRESENT=1"/>
+									<listOptionValue builtIn="false" value="__MBED_CMSIS_RTOS_CM"/>
+									<listOptionValue builtIn="false" value="__CMSIS_RTOS"/>
+									<listOptionValue builtIn="false" value="FSL_RTOS_MBED"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.775336684" languageId="org.eclipse.cdt.core.assembly" languageName="Assembly" sourceContentType="org.eclipse.cdt.core.asmSource" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.162714252" name="GNU C++" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.1406944528" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/img}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis/TARGET_CORTEX_M}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis/TARGET_CORTEX_M/TOOLCHAIN_GCC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis/TOOLCHAIN_GCC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/drivers}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/events}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/events/equeue}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem/bd}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem/fat}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem/fat/ChaN}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/greentea-client}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/greentea-client/greentea-client}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/greentea-client/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/unity}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/unity/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/unity/unity}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/utest}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/utest/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/utest/utest}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/importer}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/inc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/inc/mbedtls}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/platform}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/platform/inc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/platform/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/targets}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/nanostack}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket/cellular}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket/cellular/generic_modem_driver}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket/cellular/utils}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/hal}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/hal/storage_abstraction}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/platform}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx4}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx5}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx5/TARGET_RTOS_M4_M7}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx5/TARGET_RTOS_M4_M7/TOOLCHAIN_GCC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/api}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device/TOOLCHAIN_GCC_ARM}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/drivers}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/TARGET_FRDM}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/api}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv4}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv6}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/priv}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/prot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp/polarssl}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif/ppp}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif/ppp/polarssl}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch/TARGET_Freescale}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch/TARGET_Freescale/TARGET_K64F}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys/arch}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/configuration-store}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/pics}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/umlet}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/project}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/flash-journal}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/flash-journal/flash-journal-strategy-sequential}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/storage-volume-manager}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/}&quot;"/>
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.496389156" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="TARGET_KSDK2_MCUS"/>
+									<listOptionValue builtIn="false" value="FEATURE_LWIP=1"/>
+									<listOptionValue builtIn="false" value="__MBED__=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_I2CSLAVE=1"/>
+									<listOptionValue builtIn="false" value="__FPU_PRESENT=1"/>
+									<listOptionValue builtIn="false" value="TARGET_Freescale"/>
+									<listOptionValue builtIn="false" value="DEVICE_PORTINOUT=1"/>
+									<listOptionValue builtIn="false" value="TARGET_RTOS_M4_M7"/>
+									<listOptionValue builtIn="false" value="MBED_BUILD_TIMESTAMP=1513349247.1"/>
+									<listOptionValue builtIn="false" value="DEVICE_LOWPOWERTIMER=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_RTC=1"/>
+									<listOptionValue builtIn="false" value="TOOLCHAIN_object"/>
+									<listOptionValue builtIn="false" value="DEVICE_SERIAL_ASYNCH=1"/>
+									<listOptionValue builtIn="false" value="__CMSIS_RTOS"/>
+									<listOptionValue builtIn="false" value="FSL_RTOS_MBED"/>
+									<listOptionValue builtIn="false" value="DEVICE_STORAGE=1"/>
+									<listOptionValue builtIn="false" value="TARGET_KPSDK_MCUS"/>
+									<listOptionValue builtIn="false" value="TOOLCHAIN_GCC"/>
+									<listOptionValue builtIn="false" value="ARM_MATH_CM4"/>
+									<listOptionValue builtIn="false" value="TARGET_DEBUG"/>
+									<listOptionValue builtIn="false" value="TARGET_LIKE_CORTEX_M4"/>
+									<listOptionValue builtIn="false" value="DEVICE_ANALOGOUT=1"/>
+									<listOptionValue builtIn="false" value="TARGET_M4"/>
+									<listOptionValue builtIn="false" value="TARGET_UVISOR_UNSUPPORTED"/>
+									<listOptionValue builtIn="false" value="TARGET_K64F"/>
+									<listOptionValue builtIn="false" value="DEVICE_SPI_ASYNCH=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_PWMOUT=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_INTERRUPTIN=1"/>
+									<listOptionValue builtIn="false" value="TARGET_CORTEX"/>
+									<listOptionValue builtIn="false" value="DEVICE_I2C=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_PORTOUT=1"/>
+									<listOptionValue builtIn="false" value="__CORTEX_M4"/>
+									<listOptionValue builtIn="false" value="DEVICE_STDIO_MESSAGES=1"/>
+									<listOptionValue builtIn="false" value="CPU_MK64FN1M0VMD12"/>
+									<listOptionValue builtIn="false" value="TARGET_LIKE_MBED"/>
+									<listOptionValue builtIn="false" value="TARGET_FF_ARDUINO"/>
+									<listOptionValue builtIn="false" value="TARGET_KPSDK_CODE"/>
+									<listOptionValue builtIn="false" value="DEVICE_SERIAL_FC=1"/>
+									<listOptionValue builtIn="false" value="FEATURE_STORAGE=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_TRNG=1"/>
+									<listOptionValue builtIn="false" value="__MBED_CMSIS_RTOS_CM"/>
+									<listOptionValue builtIn="false" value="DEVICE_SLEEP=1"/>
+									<listOptionValue builtIn="false" value="TOOLCHAIN_GCC_ARM"/>
+									<listOptionValue builtIn="false" value="TARGET_FRDM"/>
+									<listOptionValue builtIn="false" value="TARGET_MCUXpresso_MCUS"/>
+									<listOptionValue builtIn="false" value="DEVICE_SPI=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_SPISLAVE=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_ANALOGIN=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_SERIAL=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_FLASH=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_PORTIN=1"/>
+									<listOptionValue builtIn="false" value="TARGET_MCU_K64F"/>
+									<listOptionValue builtIn="false" value="TARGET_CORTEX_M"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.869095164" languageId="org.eclipse.cdt.core.g++" languageName="GNU C++" sourceContentType="org.eclipse.cdt.core.cxxSource,org.eclipse.cdt.core.cxxHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.460204758" name="GNU C" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.867151072" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/img}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis/TARGET_CORTEX_M}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis/TARGET_CORTEX_M/TOOLCHAIN_GCC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/cmsis/TOOLCHAIN_GCC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/drivers}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/events}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/events/equeue}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem/bd}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem/fat}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/filesystem/fat/ChaN}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/greentea-client}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/greentea-client/greentea-client}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/greentea-client/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/unity}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/unity/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/unity/unity}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/utest}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/utest/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/frameworks/utest/utest}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/importer}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/inc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/inc/mbedtls}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/platform}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/platform/inc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/platform/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/mbedtls/targets}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/nanostack}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket/cellular}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket/cellular/generic_modem_driver}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/netsocket/cellular/utils}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/hal}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/hal/storage_abstraction}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/platform}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx4}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx5}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx5/TARGET_RTOS_M4_M7}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/rtos/TARGET_CORTEX/rtx5/TARGET_RTOS_M4_M7/TOOLCHAIN_GCC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/api}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device/TOOLCHAIN_GCC_ARM}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/drivers}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/TARGET_FRDM}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/api}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv4}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv6}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/priv}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/prot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp/polarssl}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif/ppp}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif/ppp/polarssl}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch/TARGET_Freescale}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch/TARGET_Freescale/TARGET_K64F}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys/arch}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/configuration-store}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/pics}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/umlet}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/project}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/cfstore/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/flash-journal}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/flash-journal/flash-journal-strategy-sequential}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/source}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/AX5043_Slave_Rx_Demo/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/storage-volume-manager}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/}&quot;"/>
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1395532696" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="TARGET_KSDK2_MCUS"/>
+									<listOptionValue builtIn="false" value="FEATURE_LWIP=1"/>
+									<listOptionValue builtIn="false" value="__MBED__=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_I2CSLAVE=1"/>
+									<listOptionValue builtIn="false" value="__FPU_PRESENT=1"/>
+									<listOptionValue builtIn="false" value="TARGET_Freescale"/>
+									<listOptionValue builtIn="false" value="DEVICE_PORTINOUT=1"/>
+									<listOptionValue builtIn="false" value="TARGET_RTOS_M4_M7"/>
+									<listOptionValue builtIn="false" value="MBED_BUILD_TIMESTAMP=1513349247.1"/>
+									<listOptionValue builtIn="false" value="DEVICE_LOWPOWERTIMER=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_RTC=1"/>
+									<listOptionValue builtIn="false" value="TOOLCHAIN_object"/>
+									<listOptionValue builtIn="false" value="DEVICE_SERIAL_ASYNCH=1"/>
+									<listOptionValue builtIn="false" value="__CMSIS_RTOS"/>
+									<listOptionValue builtIn="false" value="FSL_RTOS_MBED"/>
+									<listOptionValue builtIn="false" value="DEVICE_STORAGE=1"/>
+									<listOptionValue builtIn="false" value="TARGET_KPSDK_MCUS"/>
+									<listOptionValue builtIn="false" value="TOOLCHAIN_GCC"/>
+									<listOptionValue builtIn="false" value="ARM_MATH_CM4"/>
+									<listOptionValue builtIn="false" value="TARGET_DEBUG"/>
+									<listOptionValue builtIn="false" value="TARGET_LIKE_CORTEX_M4"/>
+									<listOptionValue builtIn="false" value="DEVICE_ANALOGOUT=1"/>
+									<listOptionValue builtIn="false" value="TARGET_M4"/>
+									<listOptionValue builtIn="false" value="TARGET_UVISOR_UNSUPPORTED"/>
+									<listOptionValue builtIn="false" value="TARGET_K64F"/>
+									<listOptionValue builtIn="false" value="DEVICE_SPI_ASYNCH=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_PWMOUT=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_INTERRUPTIN=1"/>
+									<listOptionValue builtIn="false" value="TARGET_CORTEX"/>
+									<listOptionValue builtIn="false" value="DEVICE_I2C=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_PORTOUT=1"/>
+									<listOptionValue builtIn="false" value="__CORTEX_M4"/>
+									<listOptionValue builtIn="false" value="DEVICE_STDIO_MESSAGES=1"/>
+									<listOptionValue builtIn="false" value="CPU_MK64FN1M0VMD12"/>
+									<listOptionValue builtIn="false" value="TARGET_LIKE_MBED"/>
+									<listOptionValue builtIn="false" value="TARGET_FF_ARDUINO"/>
+									<listOptionValue builtIn="false" value="TARGET_KPSDK_CODE"/>
+									<listOptionValue builtIn="false" value="DEVICE_SERIAL_FC=1"/>
+									<listOptionValue builtIn="false" value="FEATURE_STORAGE=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_TRNG=1"/>
+									<listOptionValue builtIn="false" value="__MBED_CMSIS_RTOS_CM"/>
+									<listOptionValue builtIn="false" value="DEVICE_SLEEP=1"/>
+									<listOptionValue builtIn="false" value="TOOLCHAIN_GCC_ARM"/>
+									<listOptionValue builtIn="false" value="TARGET_FRDM"/>
+									<listOptionValue builtIn="false" value="TARGET_MCUXpresso_MCUS"/>
+									<listOptionValue builtIn="false" value="DEVICE_SPI=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_SPISLAVE=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_ANALOGIN=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_SERIAL=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_FLASH=1"/>
+									<listOptionValue builtIn="false" value="DEVICE_PORTIN=1"/>
+									<listOptionValue builtIn="false" value="TARGET_MCU_K64F"/>
+									<listOptionValue builtIn="false" value="TARGET_CORTEX_M"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1704200665" languageId="org.eclipse.cdt.core.gcc" languageName="GNU C" sourceContentType="org.eclipse.cdt.core.cSource,org.eclipse.cdt.core.cHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="AX5043_Slave_Rx_Demo.null.1423711414" name="AX5043_Slave_Rx_Demo"/>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="0.936619452">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Default">
+			<resource resourceType="PROJECT" workspacePath="/AX5043_Slave_Rx_Demo"/>
+		</configuration>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+</cproject>
